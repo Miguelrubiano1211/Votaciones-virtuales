@@ -1,7 +1,7 @@
 {
   "name": "votaciones-virtuales",
   "version": "1.0.0",
-  "description": "<<<<<<< HEAD ## la siguiente estructura hace base a como esta estructurado el proyecto",
+  "description": "├── backend/          <-- NUEVA CARPETA\r     ├── index.html          (Página de Bienvenida)\r     ├── login.html          (Página de Inicio de Sesión y Registro)\r     ├── historia.html\r     ├── galeria.html\r     ├── candidatos.html\r     ├── votar.html\r     ├── css/\r     │   └── estilos.css     (Todos los estilos aquí)\r     └── js/\r         └── script.js       (Toda la lógica de frontend aquí)\r ============================================================================================",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

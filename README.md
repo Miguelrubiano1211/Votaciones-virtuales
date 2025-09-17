@@ -26,8 +26,5 @@
 # despues instalar herramientas con frameworks
     ├──npm install express mysql2 cors
 # despues toca entrar a la carpeta de backend para inicializar el proyecto
-    ├──server.js
-    ├──
-    ├──
-    ├──
-    ├──
+    ├──node server.js
+    
